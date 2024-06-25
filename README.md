@@ -1,3 +1,4 @@
+"Note" untuk membuka file project, ganti terlebih dahulu kategori none, menjadi front end maupun back end
 Kelompok S_DAR
 
 Anggota :
